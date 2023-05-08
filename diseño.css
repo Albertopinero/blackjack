@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url(fondo.png);
+    background-size: cover;
+}
+
+#cartas-dealer img {
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+}
+
+#tus-cartas img {
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+}
+
+#tomar-carta {
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+}
+
+#plantarse {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
+
+#rendir {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
